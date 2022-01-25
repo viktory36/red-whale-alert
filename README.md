@@ -1,7 +1,7 @@
 # red-whale-alert
 A script that alerts to large torrents recently uploaded onto redacted via a sound beep
 
-This script is intended to be run on Windows, the `winsound` library is used for generating beeps (comes included with the pre-built Windows python installer).
+This script is intended to be run on Windows, the `winsound` library is used for generating beeps (comes included with the pre-built Windows python installer). The `requests` library is used to facilitate http, and is a dependency.
 
 <br />
 
